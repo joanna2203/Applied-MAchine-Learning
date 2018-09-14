@@ -1,2 +1,5 @@
 Jithin Jacob Benjamin Jacob
 Joanna Augustine
+
+Topic - Wells Fargo Campus Analytics Challenge
+Description - Using machine learning, to develop a  data product to help individuals optimize the balance between their carbon footprint and quality of life.
