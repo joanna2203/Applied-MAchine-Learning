@@ -1,4 +1,4 @@
-python perceptron.py perceptron iris.csv
-python adaline.py adaline iris.csv
-python sgd.py adaline iris.csv
-python onevsrest.py One VS Rest iris.csv 
+python perceptron.py perceptron iris_data.csv
+python adaline.py adaline iris_data.csv
+python sgd.py sgd iris_data.csv
+python onevsrest.py onevsrest iris_data.csv 
